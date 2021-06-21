@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.chcraft</groupId>
 	<artifactId>jenkins</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
 	<name>testtest-1</name>
 	<description>test source</description>
 	<properties>
